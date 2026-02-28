@@ -1,9 +1,39 @@
-#Login Dashboard M2
+# 🔐 Login Dashboard M2
 
-Dibuat Oleh
-Erlangga Satria P
-XI RPL A
-SMKN 1 JENANGAN PONOROGO
+> Aplikasi Login Dashboard dengan React.js + Node.js
+
+Dibuat Oleh: **Erlangga Satria P**  
+🏫 XI RPL A | SMKN 1 JENANGAN PONOROGO  
+📅 2024
+
+---
+
+## ✨ Fitur Aplikasi
+
+- ✅ **Login System** - Autentikasi user dengan bcrypt
+- ✅ **Dashboard** - Halaman utama setelah login
+- ✅ **Responsive Design** - Bisa dibuka di HP & Desktop
+- ✅ **React Router** - Navigasi antar halaman
+- ✅ **Node.js Backend** - API untuk autentikasi
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+| Frontend | Backend | Tools |
+|----------|---------|-------|
+| React.js | Node.js | Git |
+| CSS | Express | VS Code |
+| Axios | bcrypt | npm |
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+### 1. Clone repository
+```bash
+git clone https://github.com/Jovaagracex/Login-m2.git
+cd Login-m2
 
 # Getting Started with Create React App
 
