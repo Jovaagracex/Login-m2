@@ -13,8 +13,6 @@ Dibuat Oleh: **Erlangga Satria P**
 - ✅ **Login System** - Autentikasi user dengan bcrypt
 - ✅ **Dashboard** - Halaman utama setelah login
 - ✅ **Responsive Design** - Bisa dibuka di HP & Desktop
-- ✅ **React Router** - Navigasi antar halaman
-- ✅ **Node.js Backend** - API untuk autentikasi
 
 ---
 
